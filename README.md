@@ -4,10 +4,12 @@ A python script that pulls in town data from the bikeandbuild.org website and pl
 
 This is a work in ~progress~ here are the links so far:
 
-[cus](http://jbirms.github.io/bikeandbuild_maps/cus/)
+[CUS](http://jbirms.github.io/bikeandbuild_maps/cus/)
 
-[c2c](http://jbirms.github.io/bikeandbuild_maps/c2c/)
+[C2C](http://jbirms.github.io/bikeandbuild_maps/c2c/)
 
-[nc2sd](http://jbirms.github.io/bikeandbuild_maps/nc2sd/)
+[ME2SB](http://jbirms.github.io/bikeandbuild_maps/me2sb/)
 
-[sc2sc](http://jbirms.github.io/bikeandbuild_maps/sc2sc/)
+[NC2SD](http://jbirms.github.io/bikeandbuild_maps/nc2sd/)
+
+[SC2SC](http://jbirms.github.io/bikeandbuild_maps/sc2sc/)
