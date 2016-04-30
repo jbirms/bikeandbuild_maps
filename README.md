@@ -4,18 +4,18 @@ A python script that pulls in town data from the bikeandbuild.org website, geoco
 
 This is a ~work in progress~ here are the links so far:
 
-[CUS](http://jbirms.github.io/bikeandbuild_maps/cus/)
+[Central US](http://jbirms.github.io/bikeandbuild_maps/cus/)
 
-[C2C](http://jbirms.github.io/bikeandbuild_maps/c2c/)
+[Connecticut to California](http://jbirms.github.io/bikeandbuild_maps/c2c/) <3
 
-[ME2SB](http://jbirms.github.io/bikeandbuild_maps/me2sb/)
+[Maine to Santa Barbara](http://jbirms.github.io/bikeandbuild_maps/me2sb/)
 
-[NC2SD](http://jbirms.github.io/bikeandbuild_maps/nc2sd/)
+[North Carolina to San Diego](http://jbirms.github.io/bikeandbuild_maps/nc2sd/)
 
-[NUS](http://jbirms.github.io/bikeandbuild_maps/nus/)
+[Northern US](http://jbirms.github.io/bikeandbuild_maps/nus/)
 
-[P2S](http://jbirms.github.io/bikeandbuild_maps/p2s/)
+[Providence to Seattle](http://jbirms.github.io/bikeandbuild_maps/p2s/)
 
-[SC2SC](http://jbirms.github.io/bikeandbuild_maps/sc2sc/)
+[South Carolina to Santa Cruz](http://jbirms.github.io/bikeandbuild_maps/sc2sc/)
 
-[SUS](http://jbirms.github.io/bikeandbuild_maps/sus/)
+[Southern US](http://jbirms.github.io/bikeandbuild_maps/sus/)
