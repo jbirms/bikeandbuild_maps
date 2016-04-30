@@ -1,6 +1,6 @@
 # bikeandbuild_maps
 
-A python script that scrapes the town data from the [bikeandbuild.org](http://bikeandbuild.org/routes-archive/) website, geocodes them (using wikipedia) into latitudes and longitudes and places them on a map of the US. The geocoder (and the Bike and Build website) isn't perfect, so I had to edit a few locations manually and there might be some errors.
+A python script that scrapes the town data from the [bikeandbuild.org](http://bikeandbuild.org/routes-archive/) website, geocodes them (using wikipedia) into latitudes and longitudes and places them on a map of the US. The geocoder (and the Bike and Build website) isn't perfect, so I had to edit a few locations manually and there might be a few errors.
 
 This is a ~work in progress~ here are the links so far:
 
