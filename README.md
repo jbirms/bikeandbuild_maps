@@ -6,7 +6,7 @@ This is a ~work in progress~ here are the links so far:
 
 [Central US](http://jbirms.github.io/bikeandbuild_maps/cus/)
 
-[Connecticut to California](http://jbirms.github.io/bikeandbuild_maps/c2c/) <3
+[Connecticut to California](http://jbirms.github.io/bikeandbuild_maps/c2c/) <3 I rode this one in 2015 and it was the best <3
 
 [Maine to Santa Barbara](http://jbirms.github.io/bikeandbuild_maps/me2sb/)
 
