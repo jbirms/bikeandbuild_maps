@@ -26,3 +26,6 @@ This is a ~work in progress~ here are the links so far:
 [Drift West](http://jbirms.github.io/bikeandbuild_maps/dw/)
 
 [Chris Webber Memorial Ride](http://jbirms.github.io/bikeandbuild_maps/cwm/)
+
+
+Lots of credit to [Mike Bostock](http://bl.ocks.org/mbostock/899711)
